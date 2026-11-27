@@ -104,7 +104,7 @@ flowchart LR
 ## How I Operate Production Systems
 
 * **Immutable & Reproducible by Default:** Every infrastructure change is code, reviewed in Git, and one-click reversible.
-* **Monitoring That Earns Its Pages:** Alert on symptoms and SLO burn, not noisy host-level flaps.
+* **Monitoring That Earns Its Pages:** Alert on symptoms 
 * **Paved Paths Over Gatekeeping:** Pair security and reliability controls with self-service tooling so the safest path is also the fastest path.
 
 ---
